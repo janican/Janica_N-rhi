@@ -23,7 +23,7 @@ article > p {
 .notebox{
     border: 5px solid darkblue;
     padding: .5em;
-    width: fit-content; --!boxin pituus--
+    width: fit-content; <!--boxin pituus-->
 }
 .notebox.warning{
     border: 4px solid salmon;
