@@ -6,6 +6,10 @@ a {
     color:brown;
     text-decoration: none;
 }
+  a:hover {
+    color: rgb(23, 96, 204);
+  }
+  
 body {
 background-color:blanchedalmond;
 margin: 20px;
@@ -17,14 +21,14 @@ font-size: larger;
 margin-bottom: 20px;
 border: cadetblue;
 }
-img {
-
-}
 h1 {
     color:rgb(241, 107, 58);
 }
 h2 {
     color: brown;
+}
+img {
+    border: 1px solid red;
 }
 footer{
     background-color: rgb(243, 214, 174); 
