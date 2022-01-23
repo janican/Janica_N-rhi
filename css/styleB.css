@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(88, 199, 199);
+    font-family: fantasy;
+}
+table {
+    border: 2px solid black;
+}
+nav{
+    background-color: rgb(44, 105, 105);
+}
+footer{
+    background-color: rgb(44, 105, 105);
+}
+button {
+    color: rgb(3, 88, 94);
+}
