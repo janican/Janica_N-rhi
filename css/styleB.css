@@ -11,6 +11,6 @@ nav{
 footer{
     background-color: rgb(44, 105, 105);
 }
-button {
+button,ul {
     color: rgb(3, 88, 94);
 }
